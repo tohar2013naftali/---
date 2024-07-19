@@ -1,0 +1,13 @@
+h1 {
+  color: white;
+}
+
+::selection {
+  color: white;
+  background-color: lightblue;
+}
+
+body, head, html {
+  background-color: black;
+  color: black;
+}
